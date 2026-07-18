@@ -1,0 +1,37 @@
+# ====================== CL40 WORLD STREAM BOT ======================
+
+ADMIN_IDS = [1315843947297509396, 1482904022695284808]
+
+def admin?(event)
+  ADMIN_IDS.include?(event.user.id) ||
+    event.user.roles.any? { |r| r.name.downcase.include?("admin") || r.name.downcase.include?("mod") }
+end
+
+# !golive - Admin only
+bot.message(with_text: '!golive') do |event|
+  next unless admin?(event)
+
+  embed = Discordrb::Webhooks::Embed.new
+  embed.title = "🔴 CL40 World is LIVE!"
+  embed.description = "Chico Loco 40 & LB0025 are streaming right now!"
+  embed.color = 0xFF0000
+  embed.timestamp = Time.now
+
+  embed.add_field(name: "📺 YouTube", value: "[Watch Live](https://www.youtube.com/@chicoloco40)", inline: true)
+  embed.add_field(name: "📺 YouTube", value: "[Watch Live](https://www.youtube.com/@lb0025-o6s)", inline: true)
+  embed.add_field(name: "🎮 KICK", value: "[Watch Live](https://kick.com/chicoloco40live)", inline: true)
+
+  embed.add_field(name: "🌍 Official", value: "[CL40 World](https://cl40.contact) | [Discord](https://discord.gg/H5cw3bexg)", inline: false)
+
+  embed.footer = Discordrb::Webhooks::EmbedFooter.new(text: "CL40 World • Powered by Grok • Sovereignty Mode ON")
+
+  event.channel.send_embed("", embed)
+end
+
+# !stream - Public
+bot.message(with_text: '!stream') do |event|
+  event.respond "🔴 **CL40 World LIVE**\n\n" +
+                "YouTube: https://youtube.com/@chicoloco40\n" +
+                "YouTube: https://youtube.com/@lb0025-o6s\n" +
+                "Official: https://cl40.contact"
+end
