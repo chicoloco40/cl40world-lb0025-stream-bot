@@ -27,9 +27,10 @@ bot.message(with_text: '!golive') do |event|
   embed.add_field(name: "🎶 TIDAL", value: "[Watch Live](https://tidal.com/artist/54468017/u)", inline: true)
   embed.add_field(name: "🎵 Spotify", value: "[Watch Live](https://open.spotify.com/artist/22fLaOOBnTXVHiM7fe16jZ?si=Iho0aSiXQgqxSfrPIto-dA)", inline: true)
   embed.add_field(name: "🎵 Spotify", value: "[Watch Live](https://open.spotify.com/artist/73On3dmwuzbJZFbdKuHBsy?si=yOLJNEFkRCGCpdRO2sa2JQ)", inline: true)
+    embed.add_field(name: "🎵 Amazon Music", value: "[Watch Live](https://music.amazon.co.uk/artists/B0DDS3JTB5/chico-loco-40)", inline: true)
+  embed.add_field(name: "🎵 Amazon Music", value: "[Watch Live](https://music.amazon.co.uk/artists/B0DDSHRJYW/lb0025?marketplaceId=)", inline: true)
   embed.add_field(name: "🎵 Anghami", value: "[Watch Live](https://open.anghami.com/MhNr7nd1S4b)", inline: true)
   embed.add_field(name: "🎵 Anghami", value: "[Watch Live](https://open.anghami.com/Ar3eFKk1S4b)", inline: true)
-
 
   
 
@@ -54,6 +55,11 @@ bot.message(with_text: '!stream') do |event|
   event.respond "🔴 **CL40 World LIVE**\n\n" +
                 "YouTube: https://youtube.com/@chicoloco40\n" +
                 "YouTube: https://youtube.com/@lb0025-o6s\n" +
+                "https://music.apple.com/us/artist/chico-loco-40/1763913299" +
+                "https://music.apple.com/us/artist/chico-loco-40/1763913299" +
+                "https://music.amazon.co.uk/artists/B0DDS3JTB5/chico-loco-40" +
+                "https://music.amazon.co.uk/artists/B0DDSHRJYW/lb0025?marketplaceId=" +
                 "KICK: https://kick.com/chicoloco40live\n\n" +
+                "Official: https://www.patreon.com/CL40world/posts/beats-pack-euro-163601436?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link"
                 "Official: https://cl40.contact"
 end
