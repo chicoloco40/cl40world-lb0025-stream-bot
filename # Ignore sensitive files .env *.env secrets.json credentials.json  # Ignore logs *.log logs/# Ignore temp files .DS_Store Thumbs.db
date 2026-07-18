@@ -1,0 +1,13 @@
+# Ignore sensitive files
+.env
+*.env
+secrets.json
+credentials.json
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore temp files
+.DS_Store
+Thumbs.db
