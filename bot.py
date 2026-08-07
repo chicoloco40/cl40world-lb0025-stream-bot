@@ -1,7 +1,6 @@
 import discord
 from discord.ext import commands
 
-# ====================== CL40 WORLD STREAM BOT ======================
 TOKEN = "YOUR_DISCORD_BOT_TOKEN_HERE"
 ADMIN_IDS = [1315843947297509396, 1482904022695284808]
 
@@ -24,7 +23,6 @@ async def on_ready():
         name="CL40 World Streams"
     ))
 
-# !golive - Admin only
 @bot.command()
 async def golive(ctx):
     if not is_admin(ctx):
@@ -44,7 +42,6 @@ async def golive(ctx):
 
     await ctx.send(embed=embed)
 
-# !stream - Public
 @bot.command()
 async def stream(ctx):
     await ctx.send(
