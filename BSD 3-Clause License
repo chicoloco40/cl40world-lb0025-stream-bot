@@ -1,0 +1,14 @@
+Incoming Request ──> [ Nginx Reverse Proxy ] ──> [ Multi-Tenant Node.js Engine ]
+                          │                                  │
+      ┌───────────────────┴───────────────────┐              ├──> Auth Matrix (4 App IDs)
+      │ founder.cl40.world                    │              ├──> Crypto Verification Engine
+      │ biography.lb0025.store                │              └──> Unified Response Dispatched
+      │ cl40.contact                          │
+      │ publisher.lb0025.store                │
+      │                                       │
+      │───────────────         ───────────────│
+                                                             │
+      ┌───────────────────┴───────────────────               ├──> Auth Matrix (4 App IDs)
+      │ https://founder.cl40.world                           ├──> Crypto Verification Engine
+      │ https://publisher.lb0025.store                       └──> Unified Response Dispatched
+       ──────────────          ──────────────
