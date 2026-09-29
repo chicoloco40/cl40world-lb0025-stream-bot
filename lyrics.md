@@ -1,4 +1,4 @@
-# ALBUM & EP: Legacy or Art or War / LA CALLE NO CALLA ll / URBANA LEYENDA / Luz y Sombra
+# ALBUM & EP & Singles: Legacy or Art or War / LA CALLE NO CALLA ll / URBANA LEYENDA / Luz y Sombra
 **Owner Artist:** Chico Loco 40
 **Publisher:** CL40 World
 **Songwriter & Master Rights:** Samir Libari
