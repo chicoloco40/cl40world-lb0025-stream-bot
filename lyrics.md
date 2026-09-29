@@ -348,15 +348,9 @@ Kon Hani Ma3andi 3chrani
 Ma3andi 3chrani 3titom L3ez Syboni F9fez Wghdroni
 Ey
 
---------------------------------------------
-11. No lyrics
+## Album: LA CALLE NO CALLA ll
 
---------------------------------------------
-Album: LA CALLE NO CALLA ll
-
---------------------------------------------
-
-01. Pere Noél V2
+## 01. Pere Noél V2
 
 Chico ga3 ma tbdel ba9i kif kan 9bel w daba
 tafi faya9 m3adel w hada wa9ila chabrah
@@ -388,10 +382,7 @@ tafi fayak meadel, w hada wakila chabrah
 snar Ykharbak leakal bass Ykhedm fikom seba
 3tarefna bikom chi ayam 7it skhon kan 7akem molah
 
----------------------------------------------------
-
-
-02. La Calle No Calla
+## 02. La Calle No Calla
 
 El humo sube, la calle no calla,
 hablan de paz mientras el pueblo estalla.
@@ -446,9 +437,7 @@ hablan de paz mientras el pueblo estalla.
 Cadenas mentales, cárceles nuevas,
 la libertad cuesta sangre y piedras.
 
----------------------------------------------
-
-03. Estoy Enfermo
+## 03. Estoy Enfermo
 
 Mente diablo - LOCO
 Fuego vivo - VIVO
@@ -554,9 +543,7 @@ Yo resisto - DURO
 Dios me mira - ARRIBA
 Yo marcado - PECADO
 
----------------------------------
-
-04. Ni Respecto
+## 04. Ni Respecto
 
 Hijos de pu, no me toquen
 Lenguas sucias, siempre mienten
@@ -616,9 +603,7 @@ Tiran beef, comen luego
 Hijos de puta, no me toquen
 Lenguas sucias, siempre mienten
 
----------------------------------------------
-
-EP: URBANA LEYENDA
+## EP: URBANA LEYENDA
 
 عام و حنا صابرين مع العديان
 ضغط كيكبر و الليل طويل فلويدان
@@ -664,9 +649,8 @@ EP: URBANA LEYENDA
 كنت صغير فطريق حتى الحاق ضاع
 والجورح كبر معايا بزاف
 وسكات عالّمني غا صداع
----------------------------------------------
 
-No Vuelvo a La Tierra
+## No Vuelvo a La Tierra
 
 Estoy cansado de farsantes, de su rap sin raíz
 Copian todo el sonido, yo cambio de país
@@ -688,9 +672,7 @@ Copian todo el sonido, yo cambio de país
 No es moda lo que suena, es mensaje lo que doy
 Desde el barrio al vacío, sigo firme en mi voz
 
------------------------------------------------
-
-Desde Abajo
+## Desde Abajo
 
 Desde abajo, nadie me dio la mano
 Frío en la calle, fuego en el piano
@@ -728,10 +710,9 @@ Silencio largo, plan preciso
 No hay atajo, no improviso
 Voy despacio, pero enfecto
 
-----------------------------------------------
-EP: Luz y Sombra
+## EP: Luz y Sombra
 
-Días y Noches
+## Días y Noches
 
 Despierta y piensa en mí
 Mis ojos solo ven por ti
@@ -771,9 +752,7 @@ Quiero verte despertar
 Quiero estar sin dudar
 Quiero contigo volar
 
----------------------------------------------------
-
-Y Siempre Tú
+## Y Siempre Tú
 
 Te vi en mis sueños,
 Hablamos sin miedo,
@@ -884,9 +863,7 @@ Vuelve a mí, amor.
 Soñé contigo,
 No puedo olvidarte,
 
----------------------------------------------------------------
-
-Eye For An Eye
+## Eye For An Eye
 
 majikch ghriba la nsitek wsma7t fik f la carsel
 riya7 9bel Manchereg chi 3ar9 w Lmot 3andi fasil
@@ -925,9 +902,7 @@ gha bla maji t9oli 7ubi 7ubi l-ghadra tb9a ghadra wakha tweli gold
 li chba3 Mdonya thena w li sara9 l-7aq ladron Word word
 mab9a la htiram azbi onti system wakha Libari 3ch9ato dawla
 
-----------------------------------------------------------------
-
-No Soy Un Ladrón
+## No Soy Un Ladrón
 
 No me gusta ella, no me gusta ella
 Para mí, ella no es nada
@@ -966,9 +941,7 @@ La gente sufre y sigue viviendo
 Esta canción no es odio
 Es verdad saliendo del silencio
 
-------------------------------------------------
-
-Cara Tapada
+## Cara Tapada
 
 Grisax de noche
 Brakax en coche
@@ -1010,9 +983,7 @@ Fuego presente
 Sangre latina
 Voz resistente
 
---------------------------------------------
-
-Calle Oscura
+## Calle Oscura
 
 Fumo rabia sin permiso, calma rota
 Sombras pesan en el tiempo, mente sola
@@ -1043,9 +1014,7 @@ Sangre roja sin razón
 Almas buscan salvación
 Voces mueren en prisión
 
-----------------------------------------------
-
-Liberi Tutti
+## Liberi Tutti
 
 Salgo entre humo, la mirada rota
 El alma en guerra, la prisión me toca
@@ -1071,9 +1040,7 @@ Pasos cansados, futuro barato
 Calles sin madre, padres sin voz
 El hambre habla, yo sigo feroz
 
----------------------------------------------------
-
-DECODING THE SYSTEM
+## DECODING THE SYSTEM
 
 Fayakin bcoc clock reality fost beat
 Chaib f zanka ymooot b jouu w pu chabra lite
@@ -1122,5 +1089,5 @@ Kali akali kra flhabs ehselk lecol fiha ghir sigar w pu
 La krito bzaf ghayrodok mlhd w yklbo lik din w k.o.f.a
 Lhokok ichaaat nn ehselik bka wahel ghi mea karwila bla ma emm
 
----------------------------------------------------------------------------------
+## 
 
